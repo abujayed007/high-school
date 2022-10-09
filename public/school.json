@@ -1,0 +1,45 @@
+[
+{"_id": 1 , 
+"facility": "Clean Class Room",
+"img": "./images/class.jpg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 5 PM",
+"rating": "10 Out Of 10"
+},
+{"_id": 2, 
+"facility": "Free Computer Lab",
+"img": "./images/computerLab.jpg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 5 PM",
+"rating": "9.5 Out Of 10"
+},
+{"_id": 3 , 
+"facility": "Own Play Ground",
+"img": "./images/ground.jpeg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 5 PM",
+"rating": "10 Out Of 10"
+},
+{"_id": 4 , 
+"facility": "Own Canteen Facility",
+"img": "./images/canteen.jpg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 5 PM",
+"rating": "9.4 Out Of 10"
+},
+{"_id": 5 , 
+"facility": "Liabrary",
+"img": "./images/liabrary.jpg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 5 PM",
+"rating": "10 Out Of 10"
+},
+{"_id": 6 , 
+"facility": "Hostel",
+"img": "./images/hosltelroom.jpg",
+"detail":"Every teacher and stufs are very good behaviour and friendly our teacher are very skilled",
+"openHour": "9 AM to 8 PM",
+"rating": "8.5 Out Of 10"
+}
+  
+]
